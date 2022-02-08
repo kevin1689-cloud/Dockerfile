@@ -1,0 +1,2 @@
+FROM gcr.io/config-management-release/resource-group-controller:v0.11.0
+MAINTAINER kevin1689 <kevinyang1689@163.com>
