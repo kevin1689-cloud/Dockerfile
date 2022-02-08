@@ -1,0 +1,2 @@
+FROM gcr.io/config-management-release/config-management-operator:20220112194128-op
+MAINTAINER kevin1689 <kevinyang1689@163.com>
