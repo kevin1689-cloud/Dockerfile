@@ -1,0 +1,2 @@
+FROM gcr.io/config-management-release/kube-rbac-proxy:v0.5.0
+MAINTAINER kevin1689 <kevinyang1689@163.com>
